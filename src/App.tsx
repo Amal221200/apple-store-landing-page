@@ -3,7 +3,7 @@ import Footer from "./components/Footer"
 import Hero from "./components/Hero"
 import Highlights from "./components/Highlights"
 import HowItWorks from "./components/HowItWorks"
-import Model from "./components/Model"
+import Model from "./components/model"
 import Navbar from "./components/Navbar"
 
 

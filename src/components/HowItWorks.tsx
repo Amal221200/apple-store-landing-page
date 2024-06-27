@@ -14,13 +14,14 @@ const HowItWorks = () => {
         gsap.from('#chip', {
             scrollTrigger: {
                 trigger: '#chip',
-                start: '20% bottom'
+                start: 'top 95% '
             },
             opacity: 0,
             scale: 2,
             duration: 2,
             ease: 'power2.inOut'
         })
+        
         animateWithGSAP({
             target: ".g_fadeIn",
             animationProps: {
